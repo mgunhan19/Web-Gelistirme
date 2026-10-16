@@ -1,1 +1,2 @@
-# Oyun Portali 
+# Oyun Portali Projesi 
+                     MEHMET GÜNHAN  *GELİŞTİRCİ*
